@@ -1,0 +1,6 @@
+[submodule "archiva-client"]
+	path = archiva-client
+	url = git@github.com:rsmaxwell/archiva-client.git
+[submodule "archiva-rest"]
+	path = archiva-rest
+	url = git@github.com:rsmaxwell/archiva-rest.git
